@@ -1,2 +1,2 @@
 * helm-mpd
-  Use helm to browse and manipulate an mpd playlist
+  Use helm to browse and manipulate mpd playlists and library
